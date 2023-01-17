@@ -1,21 +1,21 @@
 #page title
-page_title: 123 for kids # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: Funny farts # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id: # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link: https://play.google.com/store/apps/details?id=com.appskennel.numbersforkids # Enter Google Play Store URL.
+playstore_link: https://play.google.com/store/apps/details?id=com.appskennel.funnyfarts # Enter Google Play Store URL.
 
 # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
 # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 presskit_download_link:
 
 app_icon: assets/app_icon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: 123 for kids # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name: Funny Farts # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: 123 for kids is created for the children to learn counting in their local language. We hope you enjoy the app as much we enjoy creating them. Please share the joy with your loved ones and give us a good rating in Google Play Store.
+app_description: Funny fart is created to bring laughter with your family and friends. We hope you enjoy the app as much we enjoy creating them. Please share the joy with your loved ones and give us a good rating in Google Play Store.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -32,17 +32,9 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Easy to read large number fonts
-    description: Large number fonts will help your baby to focus
+  - title: 100+ Fart sounds!
+    description: Surprise your family and friends with farts!
     fontawesome_icon_name: font
-
-  - title: Accompanied with voice and spelling
-    description: Each number has its voice and spelling, helping you to play talk with your baby
-    fontawesome_icon_name: comment
-
-  - title: Available in 60 languages
-    description: Choose your desired language and have fun!
-    fontawesome_icon_name: language
 
 # Theme Settings
 topbar_color: "#000000"

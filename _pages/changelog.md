@@ -8,12 +8,10 @@ include_in_header: true
 
 # **Version 1.0**
 
-123 for kids app launched
+Funny Farts launched
 
 #### What's New
 
-- Large number fonts
-- Voice and spelling
-- Available in 60 languages
+- 100+ Fart sounds!
 
 <br>
